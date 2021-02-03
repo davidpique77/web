@@ -3,9 +3,9 @@
     padding: 0px;
     box-sizing: border-box;
 }
-
 .galeria {
     font-family: Verdana;
+    text-align: center ;
 }
 
 .linea {
